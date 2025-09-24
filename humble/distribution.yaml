@@ -6532,6 +6532,12 @@ repositories:
       url: https://github.com/bosch-engineering/off_highway_sensor_drivers.git
       version: humble-devel
     status: maintained
+  olfaction_msgs:
+    source:
+      type: git
+      url: https://github.com/MAPIRlab/olfaction_msgs.git
+      version: ros2
+    status: developed
   omni_base_navigation:
     doc:
       type: git

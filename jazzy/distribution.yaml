@@ -5795,6 +5795,12 @@ repositories:
       url: https://github.com/bosch-engineering/off_highway_sensor_drivers.git
       version: jazzy-devel
     status: developed
+  olfaction_msgs:
+    source:
+      type: git
+      url: https://github.com/MAPIRlab/olfaction_msgs.git
+      version: ros2
+    status: developed
   ompl:
     doc:
       type: git
